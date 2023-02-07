@@ -41,7 +41,7 @@ MLH offers us various Challenges :
 - How to use python with .
 - How to use AI models and diffrent framework with machine learning  .
 
-## 🚀 What's next for THEATRIFY
+## 🚀 What's next for 
 
 - Building a mobile app.
 - Adding more 3D models.
